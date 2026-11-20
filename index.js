@@ -200,67 +200,67 @@ const athleteInfo = {
   "Frances Tiafoe": {
     description: "Your Overwhelming Underdog is Frances Tiafoe!",
     longDescription: "While Tiafoe has enjoyed much success in his professional career as a tennis; being Ranked No. 8 worldwide in the men's single category. His story might prove to be even more impressive than his career starts. His parents, Frances Sr. and Alfina, migrated to the United States to escape civil war in their native Sierra Leone, settling in Maryland. His mother, a nurse, worked long hours, leading Frances and his brother to spend most of their time at the tennis facilities where his dad worked as the head of maintenance. Frances would play using borrowed equipment and even sleep in a storage or break room or two.",
-    image: "images/frances-tiafoe.png"
+    image: "frances-tiafoe.png"
   },
   "Luis Diaz": {
     description: "Your Overwhelming Underdog is Luis Diaz!",
     longDescription: "Luis Díaz grew up in poverty in Colombia as part of the Wayuu Indigenous community. As a child, he struggled with malnutrition and did not have many resources to help him become a professional soccer player. He also dealt with difficult family situations, including the kidnapping of his father. Despite everything he went through, Díaz continued working toward his dream of becoming a professional athlete. His hard work paid off, and he eventually played for major soccer clubs like Liverpool and Bayern Munich.",
-    image: "images/luis-diaz.png"
+    image: "luis-diaz.png"
   },
   "Giannis Antetokounmpo": {
     description: "Your Overwhelming Underdog is Giannis Antetokounmpo!",
     longDescription: "Giannis Antetokounmpo grew up in Athens, Greece, with Nigerian immigrant parents. His family struggled financially, and he grew up selling watches, sunglasses, bags, and other items with his older brother to help afford necessities. Giannis initially did not dream of becoming a basketball player, but he worked extremely hard despite not having the experience of other players. He would travel long distances on public transportation to get to basketball practice in Greece. After getting footage of himself showed to a basketball agent; several other NBA teams sent scouts to evaluate him. Now Giannis is one of the best modern NBA players in the league, with two NBA MVP trophies and also an NBA ring as the Finals MVP.",
-    image: "images/giannis-antetokounmpo.png"
+    image: "giannis-antetokounmpo.png"
   },
   "Lia Thomas": {
     description: "Your Overwhelming Underdog is Lia Thomas!",
     longDescription: "",
-    image: "images/lia-thomas.png"
+    image: "lia-thomas.png"
   },
   "Ilona Maher": {
     description: "Your Overwhelming Underdog is Ilona Maher",
     longDescription: "",
-    image: "images/ilona-maher.png"
+    image: "ilona-maher.png"
   },
   "Xander Bogaerts": {
     description: "Your Overwhelming Underdog is Xander Bogaerts! You value loyalty and humility the most out of your closest circle. You are level-headed and choose to stay calm when the bases are loaded and things get tough! Your friends view you as a very reliable person with a chill personality. Xander Bogaerts grew his love for baseball in Aruba, where he learned to love the sport with limited, rough playing conditions. Just like Xander, you keep your composure under pressure well and overcome any obstacles in your path. You hit it out of the ballpark!",
     longDescription: "Raised by his mother Sara Brown after his father left his native country of Aruba to pursue work opportunities abroad. Bogaerts played many sports growing up, but gravitated towards baseball from an early age. At age sixteen, Bogaerts signed with the Boston Red Sox, and just one year later he moved to the United States all by himself to begin his professional career. Bogaerts enjoyed a meteoric rise through the minors and then the top of the sport. In his twenties, Bogaerts was widely considered one of the best Shortstops in the world. Bogaerts has seen his performance in the field decline in his thirties but he has not let that affect his performance off the field. Where he is still highly respected and regarded as one of the games greatest leaders and brightest personalities.",
-    image: "images/xander-bogaerts.png"
+    image: "xander-bogaerts.png"
   },
   "Wilma Rudolph": {
     description: "Your Overwhelming Underdog is Wilma Rudolph!",
     longDescription: "Wilma Rudolph had a difficult childhood. She was born prematurely and grew up in a poor family in Tennessee during segregation. When she was four years old, she got polio, which made it difficult for her to walk. She had to wear a leg brace for several years, and doctors did not think she would ever walk normally again. However, she worked hard through physical therapy and eventually overcame those challenges. In 1960, she made history by becoming the first American woman to win three gold medals in one Olympic Games.",
-    image: "images/wilma-rudolph.png"
+    image: "wilma-rudolph.png"
   },
   "Michael Jordan": {
     description: "Your Overwhelming Underdog is Michael Jordan!",
     longDescription: "Michael Jordan faced challenges even before becoming one of the greatest basketball players ever. During his sophomore year of high school, he did not make the varsity basketball team, which was a major disappointment for him. Instead of giving up, he used that experience as motivation to improve his skills and work harder. He also grew up in a competitive household, where he was always trying to keep up with his older brother. Through his determination and hard work, Jordan eventually became a six-time NBA champion and one of the most recognized basketball players in history.",
-    image: "images/michael-jordan.png"
+    image: "michael-jordan.png"
   },
   "Cristiano Ronaldo": {
     description: "Your Overwhelming Underdog is Cristiano Ronaldo!",
     longDescription: "Michael Jordan faced challenges even before becoming one of the greatest basketball players ever. During his sophomore year of high school, he did not make the varsity basketball team, which was a major disappointment for him. Instead of giving up, he used that experience as motivation to improve his skills and work harder. He also grew up in a competitive household, where he was always trying to keep up with his older brother. Through his determination and hard work, Jordan eventually became a six-time NBA champion and one of the most recognized basketball players in history.",
-    image: "images/cristiano-ronaldo.png"
+    image: "cristiano-ronaldo.png"
   },
   "Novak Djokovic": {
     description: "Your Overwhelming Underdog is Novak Djokovic!",
     longDescription: "",
-    image: "images/novak-djokovic.png"
+    image: "novak-djokovic.png"
   },
   "Simone Biles": {
     description: "Your Overwhelming Underdog is Simone Biles!",
     longDescription: "",
-    image: "images/simone-biles.png"
+    image: "simone-biles.png"
   },
   "Naomi Osaka": {
     description: "Your Overwhelming Underdog is Naomi Osaka!",
     longDescription: "",
-    image: "images/naomi-osaka.png"
+    image: "naomi-osaka.png"
   },
   "Derek Jeter": {
     description: "Your Overwhelming Underdog is Derek Jeter!",
     longDescription: "",
-    image: "images/derek-jeter.png"
+    image: "derek-jeter.png"
   }
 };
 
