@@ -1,0 +1,1 @@
+For an Interdisciplinary Design course at Montclair State University, I was tasked to create a website for my schools museum. With the assistance of Google Gemini, I put my ideas to life and created a personality quiz.
