@@ -198,7 +198,7 @@ const userScores = {
 // Store descriptions and images using the exact same full names as keys
 const athleteInfo = {
   "Frances Tiafoe": {
-    description: "Your Overwhelming Underdog is Frances Tiafoe!",
+    description: "Your Overwhelming Underdog is Frances Tiafoe! You have a huge heart and a bigger appetite for French Fries. Similar to Frances, you have amazing perseverance and such discipline when it comes to getting things done! Nicknamed “Big Foe”, Frances had to overcome many family financial struggles in his younger years and doubts of his abilities before becoming a tennis superstar. Frances proved that coming from struggle and facing it head on only makes you stronger, and you are a reflection of him! And that is what we call an Overwhelming Underdog!",
     longDescription: "While Tiafoe has enjoyed much success in his professional career as a tennis; being Ranked No. 8 worldwide in the men's single category. His story might prove to be even more impressive than his career starts. His parents, Frances Sr. and Alfina, migrated to the United States to escape civil war in their native Sierra Leone, settling in Maryland. His mother, a nurse, worked long hours, leading Frances and his brother to spend most of their time at the tennis facilities where his dad worked as the head of maintenance. Frances would play using borrowed equipment and even sleep in a storage or break room or two.",
     image: "frances-tiafoe.png"
   },
@@ -213,7 +213,7 @@ const athleteInfo = {
     image: "giannis-antetokounmpo.png"
   },
   "Lia Thomas": {
-    description: "Your Overwhelming Underdog is Lia Thomas!",
+    description: "Your Overwhelming Underdog is Lia Thomas! You are incredibly focused on your goals and you know how to do it in style: by BEING YOURSELF! Lia Thomas is incredibly determined to swim, even while struggling with depression and mental distress. She may have hit a dead end in the water, but she always found her rhythm and overcame her obstacles. Authenticity is your secret weapon and you have a slightly adventurous side to you.Whether you are exploring the beautiful beaches of Florida or playing an open-world video game where you defeat monsters and explore secret castles, you know how to live life right! Live like Lia!",
     longDescription: "",
     image: "lia-thomas.png"
   },
