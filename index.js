@@ -203,7 +203,7 @@ const athleteInfo = {
     image: "frances-tiafoe.png"
   },
   "Luis Diaz": {
-    description: "Your Overwhelming Underdog is Luis Diaz!",
+    description: "Your Overwhelming Underdog is Luis Diaz! You are the funniest person in the room, and you always radiate positive energy to whoever surrounds you. You prioritize yourself on your long-lasting endurance, whether it’s on the field or in your daily life! Just like Luis Diaz, you are someone who keeps your loved ones close to your heart and uses them as motivation to keep going! Luis used his powerful determination from a young age when he overcame being underweight in his sport and struggling with poverty at a young age. He did not let a physical issue stop him from achieving his dreams and chose to pivot his loss into a win! Just as an Overwhelming Underdog would!",
     longDescription: "Luis Díaz grew up in poverty in Colombia as part of the Wayuu Indigenous community. As a child, he struggled with malnutrition and did not have many resources to help him become a professional soccer player. He also dealt with difficult family situations, including the kidnapping of his father. Despite everything he went through, Díaz continued working toward his dream of becoming a professional athlete. His hard work paid off, and he eventually played for major soccer clubs like Liverpool and Bayern Munich.",
     image: "luis-diaz.png"
   },
@@ -228,17 +228,17 @@ const athleteInfo = {
     image: "xander-bogaerts.png"
   },
   "Wilma Rudolph": {
-    description: "Your Overwhelming Underdog is Wilma Rudolph!",
+    description: "Your Overwhelming Underdog is Wilma Rudolph! You are fierce and resilient; never one to back down from a challenge. You enjoy moving your body outdoors and want to prove to the world that anything is possible by breaking barriers. Wilma Rudolph is known for winning 3 gold medals at the 1960 Rome Olympics, making her lucky number 3! You prefer a good home cooked meal over a fancy extravaganza, and are the most likely in your friends to keep it real. Just like Wilma, you will keep fighting until the end and leave a legacy behind that will inspire those around you.",
     longDescription: "Wilma Rudolph had a difficult childhood. She was born prematurely and grew up in a poor family in Tennessee during segregation. When she was four years old, she got polio, which made it difficult for her to walk. She had to wear a leg brace for several years, and doctors did not think she would ever walk normally again. However, she worked hard through physical therapy and eventually overcame those challenges. In 1960, she made history by becoming the first American woman to win three gold medals in one Olympic Games.",
     image: "wilma-rudolph.png"
   },
   "Michael Jordan": {
-    description: "Your Overwhelming Underdog is Michael Jordan!",
+    description: "Your Overwhelming Underdog is Michael Jordan! You have a great competitive spirit, and you really value accountability in the people around you! Your superpower is flying, as you have goals and dreams that will get you to great heights. In your downtime, you love to relax on a quiet vacation and sit back to enjoy the finer things in life…even if it’s a big juicy steak! Michael Jordan has always been known for his incredible drive, and he used that drive to overcome his unfortunate contraction of HIV. However, he didn’t let that stop him and turned a negative into a positive by becoming a spokesperson for AIDS prevention. He moves through his life hoping to inspire others to overcome their hardships, and you can go out and do the same!",
     longDescription: "Michael Jordan faced challenges even before becoming one of the greatest basketball players ever. During his sophomore year of high school, he did not make the varsity basketball team, which was a major disappointment for him. Instead of giving up, he used that experience as motivation to improve his skills and work harder. He also grew up in a competitive household, where he was always trying to keep up with his older brother. Through his determination and hard work, Jordan eventually became a six-time NBA champion and one of the most recognized basketball players in history.",
     image: "michael-jordan.png"
   },
   "Cristiano Ronaldo": {
-    description: "Your Overwhelming Underdog is Cristiano Ronaldo!",
+    description: "Your Overwhelming Underdog is Cristiano Ronaldo! You are disciplined, confident, and much like Cristiano, you like to prove your competitors wrong. When you are not busy crushing the competition, you like to refuel with a high-protein meal in a sunny seaside spot with your family. Cristiano grew up with physical and academic challenges when he moved to the United States. When he started playing soccer, he was constantly beaten down with numerous injuries and emotional trauma from his family. Despite this, he never let the world stop him from getting what he wanted, and Cristiano continues to inspire others around him to do amazing things!",
     longDescription: "Before Cristiano Ronaldo became one of the greatest soccer players of all time, he had a challenging upbringing. He grew up in a poor family with very limited resources and opportunities, where he had to overcome major adversity. At the age of 12, he left his hometown of Madeira and moved to Lisbon to join the Sporting CP youth academy. This meant he had to leave his family and friends behind to chase his dream. Being away from his family was challenging enough, but he also had to deal with criticism and rejection because of his background. Shortly after, he dealt with a racing heart condition that required a medical procedure. Luckily, he was able to overcome all these adversities and later grew up to become the leading career scorer, both at club and country.",
     image: "cristiano-ronaldo.png"
   },
