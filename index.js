@@ -2,178 +2,178 @@ const quizData = [
   {
     question: "What is your favorite sport?",
     options: [
-      { text: "Tennis", type: "Frances Tiafoe", type: "Novak Djokovic", type: "Naomi Osaka"},
-      { text: "Soccer", type: "Luis Diaz", type: "Cristiano Ronaldo"},
-      { text: "Basketball", type: "Giannis Antetokounmpo", type: "Michael Jordan"},
-      { text: "Swimming", type: "Lia Thomas" },
-      { text: "Rugby", type: "Ilona Maher" },
-      { text: "Baseball", type: "Xander Bogaerts", type: "Derek Jeter"},
-      { text: "Track and Field", type: "Wilma Rudolph"},
-      { text: "Golf", type: "Michael Jordan"},
-      { text: "Football", type: "Cristiano Ronaldo"},
-      { text: "Lacrosse", type: "Novak Djokovic"},
-      { text: "Gymnastics", type: "Simone Biles"},
-      { text: "Volleyball", type: "Naomi Osaka"}
+      { text: "Tennis", types: ["Frances Tiafoe", "Novak Djokovic", "Naomi Osaka"]},
+      { text: "Soccer", types: ["Luis Diaz", "Cristiano Ronaldo"]},
+      { text: "Basketball", types: ["Giannis Antetokounmpo", "Michael Jordan"]},
+      { text: "Swimming", types: ["Lia Thomas"]},
+      { text: "Rugby", types: ["Ilona Maher"]},
+      { text: "Baseball", types: ["Xander Bogaerts", "Derek Jeter"]},
+      { text: "Track and Field", types: ["Wilma Rudolph"]},
+      { text: "Golf", types: ["Michael Jordan"]},
+      { text: "Football", types: ["Cristiano Ronaldo"]},
+      { text: "Lacrosse", types: ["Novak Djokovic"]},
+      { text: "Gymnastics", types: ["Simone Biles"]},
+      { text: "Volleyball", types: ["Naomi Osaka"]}
     ]
   },
   {
     question: "What is your favorite quality in a person?",
     options: [
-      { text: "Being Yourself", type: "Lia Thomas", type: "Naomi Osaka" },
-      { text: "Being Supportive", type: "Ilona Maher" },
-      { text: "Being Humble", type: "Giannis Antetokounmpo" },
-      { text: "Being Funny", type: "Luis Diaz" },
-      { text: "Being Kind", type: "Frances Tiafoe", type: "Wilma Rudolph"},
-      { text: "Being Loyal", type: "Xander Bogaerts", type: "Derek Jeter"},
-      { text: "Having Beliefs", type: "Wilma Rudolph"},
-      { text: "Accountability", type: "Michael Jordan"},
-      { text: "Being Disciplined", type: "Cristiano Ronaldo"},
-      { text: "Being Grateful", type: "Novak Djokovic"},
-      { text: "Honesty", type: "Simone Biles"},
-      { text: "Being Empathetic", type: "Naomi Osaka"}
+      { text: "Being Yourself", types:["Lia Thomas", "Naomi Osaka" ]},
+      { text: "Being Supportive", types:["Ilona Maher"] },
+      { text: "Being Humble", types:["Giannis Antetokounmpo"] },
+      { text: "Being Funny", types:["Luis Diaz"]},
+      { text: "Being Kind", types:["Frances Tiafoe","Wilma Rudolph"]},
+      { text: "Being Loyal", types:["Xander Bogaerts","Derek Jeter"]},
+      { text: "Having Beliefs", types:["Wilma Rudolph"]},
+      { text: "Accountability", types:["Michael Jordan"]},
+      { text: "Being Disciplined", types:["Cristiano Ronaldo"]},
+      { text: "Being Grateful", types:["Novak Djokovic"]},
+      { text: "Honesty", types:["Simone Biles"]},
+      { text: "Being Empathetic", types:["Naomi Osaka"]}
     ]
   },
   {
     question: "What is your lucky number?",
     options: [
-      { text: "13", type: "Ilona Maher" },
-      { text: "7", type: "Luis Diaz", type: "Giannis Antetokounmpo", type: "Cristiano Ronaldo"},
-      { text: "34", type: "Giannis Antetokounmpo"},
-      { text: "20", type: "Frances Tiafoe" },
-      { text: "50", type: "Lia Thomas" },
-      { text: "2", type: "Xander Bogaerts", type: "Derek Jeter"},
-      { text: "3", type: "Wilma Rudolph"},
-      { text: "23", type: "Michael Jordan"},
-      { text: "1", type: "Novak Djokovic"},
-      { text: "4", type: "Simone Biles", type: "Naomi Osaka"}
+      { text: "13", types:["Ilona Maher" ]},
+      { text: "7", types:["Luis Diaz", "Giannis Antetokounmpo", "Cristiano Ronaldo"]},
+      { text: "34", types:["Giannis Antetokounmpo"]},
+      { text: "20", types:["Frances Tiafoe" ]},
+      { text: "50", types:["Lia Thomas" ]},
+      { text: "2", types:["Xander Bogaerts","Derek Jeter"]},
+      { text: "3", types:["Wilma Rudolph"]},
+      { text: "23", types:["Michael Jordan"]},
+      { text: "1", types:["Novak Djokovic"]},
+      { text: "4", types:["Simone Biles", "Naomi Osaka"]}
     ]
   },
   {
     question: "Whats foods catch your eye?",
     options: [
-      { text: "Fish with Rice", type: "Luis Diaz" },
-      { text: "Oreos and Milk", type: "Giannis Antetokounmpo" },
-      { text: "Bread with Butter", type: "Ilona Maher" },
-      { text: "Bananas", type: "Lia Thomas" },
-      { text: "French Fries", type: "Frances Tiafoe" },
-      { text: "A Caribbean Meal", type: "Xander Bogaerts"},
-      { text: "Fried Chicken and Collard Greens", type: "Wilma Rudolph"},
-      { text: "Steak", type: "Michael Jordan"},
-      { text: "Cod", type: "Cristiano Ronaldo"},
-      { text: "Plant Based Meals", type: "Novak Djokovic"},
-      { text: "Pepperoni Pizza", type: "Simone Biles"},
-      { text: "Sushi", type: "Naomi Osaka"},
-      { text: "Spaghetti & Meatballs", type: "Derek Jeter"}
+      { text: "Fish with Rice", types:["Luis Diaz" ]},
+      { text: "Oreos and Milk", types:["Giannis Antetokounmpo" ]},
+      { text: "Bread with Butter", types:["Ilona Maher" ]},
+      { text: "Bananas", types:["Lia Thomas" ]},
+      { text: "French Fries", types:["Frances Tiafoe"]},
+      { text: "A Caribbean Meal", types:["Xander Bogaerts"]},
+      { text: "Fried Chicken and Collard Greens", types:["Wilma Rudolph"]},
+      { text: "Steak", types:["Michael Jordan"]},
+      { text: "Cod", types:["Cristiano Ronaldo"]},
+      { text: "Plant Based Meals", types:["Novak Djokovic"]},
+      { text: "Pepperoni Pizza", types:["Simone Biles"]},
+      { text: "Sushi", types:["Naomi Osaka"]},
+      { text: "Spaghetti & Meatballs", types:["Derek Jeter"]}
     ]
   },
   {
     question: "If you could have one superpower, what would it be?",
     options: [
-      { text: "Unlimited Stamina", type: "Lia Thomas", type: "Cristiano Ronaldo"},
-      { text: "Elastic", type: "Giannis Antetokounmpo", type: "Novak Djokovic" },
-      { text: "Lightning Fast Reflexes", type: "Frances Tiafoe" },
-      { text: "Super Speed", type: "Ilona Maher", type: "Wilma Rudolph" },
-      { text: "Spidey-Senses", type: "Luis Diaz" },
-      { text: "Teleportation", type: "Xander Bogaerts"},
-      { text: "Leap", type: "Cristiano Ronaldo"},
-      { text: "Flight", type: "Michael Jordan"},
-      { text: "Defying Gravity", type: "Simone Biles"},
-      { text: "Invisibility", type: "Naomi Osaka", type: "Derek Jeter"}
+      { text: "Unlimited Stamina", types:["Lia Thomas", "Cristiano Ronaldo"]},
+      { text: "Elastic", types:["Giannis Antetokounmpo", "Novak Djokovic" ]},
+      { text: "Lightning Fast Reflexes", types: ["Frances Tiafoe" ]},
+      { text: "Super Speed", types:["Ilona Maher", "Wilma Rudolph" ]},
+      { text: "Spidey-Senses", types:["Luis Diaz" ]},
+      { text: "Teleportation", types:["Xander Bogaerts"]},
+      { text: "Leap", types:["Cristiano Ronaldo"]},
+      { text: "Flight", types:["Michael Jordan"]},
+      { text: "Defying Gravity", types:["Simone Biles"]},
+      { text: "Invisibility", types:["Naomi Osaka","Derek Jeter"]}
     ]
   },
   {
     question: "If you could travel anywhere in the world, where would you go?",
     options: [
-      { text: "The Netherlands", type: "Ilona Maher"},
-      { text: "Japan", type: "Frances Tiafoe", type: "Naomi Osaka"},
-      { text: "Florida", type: "Lia Thomas"},
-      { text: "Greece", type: "Giannis Antetokounmpo"},
-      { text: "Colombia", type: "Luis Diaz"},
-      { text: "Aruba", type: "Xander Bogaerts"},
-      { text: "Rome", type: "Wilma Rudolph"},
-      { text: "A Coastel Getaway", type: "Michael Jordan"},
-      { text: "Madeira, Portugal", type: "Cristiano Ronaldo"},
-      { text: "Anywhere is a Vacation", type: "Novak Djokovic", type: "Simone Biles"},
-      { text: "The Bahamas", type: "Derek Jeter"}
+      { text: "The Netherlands", types:["Ilona Maher"]},
+      { text: "Japan", types:["Frances Tiafoe","Naomi Osaka"]},
+      { text: "Florida", types:["Lia Thomas"]},
+      { text: "Greece", types:["Giannis Antetokounmpo"]},
+      { text: "Colombia", types:["Luis Diaz"]},
+      { text: "Aruba", types:["Xander Bogaerts"]},
+      { text: "Rome", types:["Wilma Rudolph"]},
+      { text: "A Coastel Getaway", types:["Michael Jordan"]},
+      { text: "Madeira, Portugal", types:["Cristiano Ronaldo"]},
+      { text: "Anywhere is a Vacation", types:["Novak Djokovic", "Simone Biles"]},
+      { text: "The Bahamas", types:["Derek Jeter"]}
     ]
   },
   {
     question: "If you faced a major setback while chasing your dream, what is the FIRST thing you would do?",
     options: [
-      { text: "Lean on your family for motivation", type: "Luis Diaz"},
-      { text: "Prioritize your mental and physical health", type: "Lia Thomas"},
-      { text: "Choose to change your mindset", type: "Ilona Maher", type: "Novak Djokovic", type: "Simone Biles"},
-      { text: "Create more daily good habits", type: "Frances Tiafoe"},
-      { text: "Try harder next time", type: "Giannis Antetokounmpo"},
-      { text: "Stay calm, review, and get back to work", type: "Xander Bogaerts"},
-      { text: "Take small steps forward and get back on track", type: "Wilma Rudolph"},
-      { text: "Outwork everybody else", type: "Michael Jordan"},
-      { text: "Immediately get back to work", type: "Cristiano Ronaldo"},
-      { text: "Reflect on past obstacles", type: "Naomi Osaka"},
-      { text: "Own the mistake", type: "Derek Jeter"}
+      { text: "Lean on your family for motivation", types:["Luis Diaz"]},
+      { text: "Prioritize your mental and physical health", types:["Lia Thomas"]},
+      { text: "Choose to change your mindset", types:["Ilona Maher", "Novak Djokovic", "Simone Biles"]},
+      { text: "Create more daily good habits", types:["Frances Tiafoe"]},
+      { text: "Try harder next time", types:["Giannis Antetokounmpo"]},
+      { text: "Stay calm, review, and get back to work", types:["Xander Bogaerts"]},
+      { text: "Take small steps forward and get back on track", types:["Wilma Rudolph"]},
+      { text: "Outwork everybody else", types:["Michael Jordan"]},
+      { text: "Immediately get back to work", types:["Cristiano Ronaldo"]},
+      { text: "Reflect on past obstacles", types:["Naomi Osaka"]},
+      { text: "Own the mistake", types:["Derek Jeter"]}
     ]
   },
   {
     question: "As an overwhelming underdog, what do you want people to remember you for?",
     options: [
-      { text: "How you played in your sport, as an athlete ", type: "Luis Diaz", type: "Derek Jeter"},
-      { text: "Inspiring people in your community ", type: "Lia Thomas"},
-      { text: "Being real and vulnerable ", type: "Ilona Maher", type: "Naomi Osaka"},
-      { text: "Your work ethic", type: "Giannis Antetokounmpo", type: "Cristiano Ronaldo"},
-      { text: "How you were as a person, outside of your sport", type: "Frances Tiafoe"},
-      { text: "Someone who played the game the right way", type: "Xander Bogaerts"},
-      { text: "Never giving up", type: "Wilma Rudolph" , type: "Michael Jordan", type: "Novak Djokovic"},
-      { text: "Having fun", type: "Simone Biles"}
+      { text: "How you played in your sport, as an athlete ", types:["Luis Diaz", "Derek Jeter"]},
+      { text: "Inspiring people in your community ", types:["Lia Thomas"]},
+      { text: "Being real and vulnerable ", types:["Ilona Maher", "Naomi Osaka"]},
+      { text: "Your work ethic", types:["Giannis Antetokounmpo", "Cristiano Ronaldo"]},
+      { text: "How you were as a person, outside of your sport", types:["Frances Tiafoe"]},
+      { text: "Someone who played the game the right way", types:["Xander Bogaerts"]},
+      { text: "Never giving up", types:["Wilma Rudolph" , "Michael Jordan", "Novak Djokovic"]},
+      { text: "Having fun", types:["Simone Biles"]}
     ]
   },
   {
     question: "If your life were a movie, what type of movie would you wanna be?",
     options: [
-      { text: "Heartwarming Comedy ", type: "Frances Tiafoe"},
-      { text: "Superhero Adventure", type: "Giannis Antetokounmpo"},
-      { text: "Disney Princess movie", type: "Ilona Maher"},
-      { text: "Documentary ", type: "Luis Diaz"},
-      { text: "True-Life Drama", type: "Lia Thomas", type: "Derek Jeter"},
-      { text: "Sports Drama", type: "Xander Bogaerts"},
-      { text: "Biography", type: "Wilma Rudolph"},
-      { text: "Thriller", type: "Michael Jordan"},
-      { text: "Action", type: "Cristiano Ronaldo"},
-      { text: "Psychological Drama", type: "Novak Djokovic"},
-      { text: "Coming-of-Age", type: "Simone Biles"},
-      { text: "Indie Drama", type: "Naomi Osaka"}
+      { text: "Heartwarming Comedy ", types:["Frances Tiafoe"]},
+      { text: "Superhero Adventure", types:["Giannis Antetokounmpo"]},
+      { text: "Disney Princess movie", types:["Ilona Maher"]},
+      { text: "Documentary ", types:["Luis Diaz"]},
+      { text: "True-Life Drama", types:["Lia Thomas", "Derek Jeter"]},
+      { text: "Sports Drama", types:["Xander Bogaerts"]},
+      { text: "Biography", types:["Wilma Rudolph"]},
+      { text: "Thriller", types:["Michael Jordan"]},
+      { text: "Action", types:["Cristiano Ronaldo"]},
+      { text: "Psychological Drama", types:["Novak Djokovic"]},
+      { text: "Coming-of-Age", types:["Simone Biles"]},
+      { text: "Indie Drama", types:["Naomi Osaka"]}
     ]
   },
   {
     question: "What is your favorite thing to do in your free time?",
     options: [
-      { text: "Cooking", type: "Ilona Maher"},
-      { text: "Listening to music ", type: "Luis Diaz"},
-      { text: "Spending time with family", type: "Giannis Antetokounmpo", type: "Xander Bogaerts", type: "Novak Djokovic"},
-      { text: "Playing video games", type: "Lia Thomas"},
-      { text: "Watching shows/movies on Netflix", type: "Frances Tiafoe"},
-      { text: "Running outdoors", type: "Wilma Rudolph"},
-      { text: "Practing a sport", type: "Michael Jordan"},
-      { text: "Working out", type: "Cristiano Ronaldo"},
-      { text: "Practice mindfulness", type: "Novak Djokovic"},
-      { text: "Shopping", type: "Simone Biles", type: "Naomi Osaka"},
-      { text: "Sleeping", type: "Derek Jeter"}
+      { text: "Cooking", types:["Ilona Maher"]},
+      { text: "Listening to music ", types:["Luis Diaz"]},
+      { text: "Spending time with family", types:["Giannis Antetokounmpo", "Xander Bogaerts", "Novak Djokovic"]},
+      { text: "Playing video games", types:["Lia Thomas"]},
+      { text: "Watching shows/movies on Netflix", types:["Frances Tiafoe"]},
+      { text: "Running outdoors", types:["Wilma Rudolph"]},
+      { text: "Practing a sport", types:["Michael Jordan"]},
+      { text: "Working out", types:["Cristiano Ronaldo"]},
+      { text: "Practice mindfulness", types:["Novak Djokovic"]},
+      { text: "Shopping", types:["Simone Biles", "Naomi Osaka"]},
+      { text: "Sleeping", types:["Derek Jeter"]}
     ]
   }/*,
   {
     question: "Which adventure sounds the most exciting to you?",
     options: [
-      { text: "Exploring a new place you have never visited!", type: "Luis Diaz"},
-      { text: "Doing a puzzle with friends to sharpen your mind and have fun!", type: "Frances Tiafoe"},
-      { text: "Going on a bike ride in a beach town near the ocean!", type: "Giannis Antetokounmpo"},
-      { text: "Playing an open-world video game where you defeat monsters and explore castles!", type: "Lia Thomas"},
-      { text: "Going kayaking to explore a giant hidden lake!", type: "Ilona Maher"},
-      { text: "Vacationing to islands", type: "Xander Bogaerts"},
-      { text: "Breaking barriers across the globe", type: "Wilma Rudolph"},
-      { text: "Playing a new sport with your friends", type: "Michael Jordan"},
-      { text: "Chasing a new record", type: "Cristiano Ronaldo"},
-      { text: "An intense chess match", type: "Novak Djokovic"},
-      { text: "Performing a talent on stage!", type: "Simone Biles"},
-      { text: "Explore a city for its culture!", type: "Naomi Osaka"}
+      { text: "Exploring a new place you have never visited!", types:["Luis Diaz"]},
+      { text: "Doing a puzzle with friends to sharpen your mind and have fun!", types:["Frances Tiafoe"]},
+      { text: "Going on a bike ride in a beach town near the ocean!", types:["Giannis Antetokounmpo"]},
+      { text: "Playing an open-world video game where you defeat monsters and explore castles!", types:["Lia Thomas"]},
+      { text: "Going kayaking to explore a giant hidden lake!", types:["Ilona Maher"]},
+      { text: "Vacationing to islands", types:["Xander Bogaerts"]},
+      { text: "Breaking barriers across the globe", types:["Wilma Rudolph"]},
+      { text: "Playing a new sport with your friends", types:["Michael Jordan"]},
+      { text: "Chasing a new record", types:["Cristiano Ronaldo"]},
+      { text: "An intense chess match", types:["Novak Djokovic"]},
+      { text: "Performing a talent on stage!", types:["Simone Biles"]},
+      { text: "Explore a city for its culture!", types:["Naomi Osaka"]}
     ]
   }*/
 ];
@@ -239,7 +239,7 @@ const athleteInfo = {
   },
   "Cristiano Ronaldo": {
     description: "Your Overwhelming Underdog is Cristiano Ronaldo!",
-    longDescription: "Michael Jordan faced challenges even before becoming one of the greatest basketball players ever. During his sophomore year of high school, he did not make the varsity basketball team, which was a major disappointment for him. Instead of giving up, he used that experience as motivation to improve his skills and work harder. He also grew up in a competitive household, where he was always trying to keep up with his older brother. Through his determination and hard work, Jordan eventually became a six-time NBA champion and one of the most recognized basketball players in history.",
+    longDescription: "Before Cristiano Ronaldo became one of the greatest soccer players of all time, he had a challenging upbringing. He grew up in a poor family with very limited resources and opportunities, where he had to overcome major adversity. At the age of 12, he left his hometown of Madeira and moved to Lisbon to join the Sporting CP youth academy. This meant he had to leave his family and friends behind to chase his dream. Being away from his family was challenging enough, but he also had to deal with criticism and rejection because of his background. Shortly after, he dealt with a racing heart condition that required a medical procedure. Luckily, he was able to overcome all these adversities and later grew up to become the leading career scorer, both at club and country.",
     image: "cristiano-ronaldo.png"
   },
   "Novak Djokovic": {
@@ -248,12 +248,12 @@ const athleteInfo = {
     image: "novak-djokovic.png"
   },
   "Simone Biles": {
-    description: "Your Overwhelming Underdog is Simone Biles!",
+    description: "Your Overwhelming Underdog is Simone Biles! You are a ball of high energy and joy when you are around your close circle of friends! You have a huge love for pepperoni pizza, and you are very family-oriented. Similar to Simone, you have a tendency for greatness and an even greater sense of fashion! Simone Biles is the definition of being your own boss and knowing when you need a break, as she took a break for her mental health distress after the 2020 Olympics. Biles may have fallen off the beam, but she always got back up and stuck the landing! Keep going for gold like Simone!",
     longDescription: "",
     image: "simone-biles.png"
   },
   "Naomi Osaka": {
-    description: "Your Overwhelming Underdog is Naomi Osaka!",
+    description: "Your Overwhelming Underdog is Naomi Osaka! You are a sweetheart who is always thinking of your loved ones! You have strong empathy for others and have a very creative mind. You enjoy eating sushi with friends, which is her favorite food!  You have a huge appreciation for art and wish to explore new cities, like Tokyo, Japan! Her lucky number is 4, as she became a champion with 4 Grand Slam championships. Even though Osaka is a tennis champion, she did overcome the fear of falling “behind” in life and not doing enough! Just like many young kids with big dreams, Naomi Osaka faced her imposter syndrome and overcame it with smashing success. Naomi teaches us that anybody can overwhelm expectations and become an Underdog!",
     longDescription: "",
     image: "naomi-osaka.png"
   },
@@ -270,6 +270,16 @@ let currentQuestionIndex = 0;
 const questionText = document.getElementById("question-text");
 const optionsContainer = document.getElementById("options-container");
 
+// Shuffles the answers
+function shuffleArray(array) {
+  const copy = [...array];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
 // Load the current question onto the page
 function loadQuestion() {
   const currentQuiz = quizData[currentQuestionIndex];
@@ -277,19 +287,20 @@ function loadQuestion() {
   questionText.textContent = currentQuiz.question;
   optionsContainer.innerHTML = "";
 
-  currentQuiz.options.forEach(option => {
+  shuffleArray(currentQuiz.options).forEach(option => {
     const button = document.createElement("button");
     button.textContent = option.text;
     button.classList.add("option-btn");
 
-    // Handle clicks
     button.addEventListener("click", () => {
-      // 1. Add 1 point to the chosen athlete's type
-      userScores[option.type]++;
-      
+      // 1. Add 1 point to every athlete listed in option.types
+      option.types.forEach(athlete => {
+        userScores[athlete]++;
+      });
+
       // 2. Move to the next question
       currentQuestionIndex++;
-      
+
       // 3. Check if quiz is finished
       if (currentQuestionIndex < quizData.length) {
         loadQuestion();
@@ -306,10 +317,10 @@ function calculateResult() {
   let highestScore = -1;
   let winningType = "";
 
-  for (let type in userScores) {
-    if (userScores[type] > highestScore) {
-      highestScore = userScores[type];
-      winningType = type;
+  for (let athlete in userScores) {
+    if (userScores[athlete] > highestScore) {
+      highestScore = userScores[athlete];
+      winningType = athlete;
     }
   }
 
@@ -327,113 +338,29 @@ function calculateResult() {
   document.getElementById("result-description").innerText = resultData.description;
 }
 
-// Grab the start button and front page elements
+// Grab navigation and page elements
 const startButton = document.getElementById("startButton");
 const frontPage = document.querySelector(".frontpage");
 const quizContainer = document.getElementById("quiz-container");
-
-// Listen for a click on the Start button
-startButton.addEventListener("click", () => {
-  frontPage.classList.add("hidden");
-  quizContainer.classList.remove("hidden");
-  loadQuestion();
-});
-
-// Grab the restart button
 const restartBtn = document.getElementById("restart-btn");
-
-restartBtn.addEventListener("click", () => {
-  currentQuestionIndex = 0;
-
-  for (let type in userScores) {
-    userScores[type] = 0;
-  }
-
-  document.getElementById("result-box").classList.add("hidden");
-  document.getElementById("question-box").classList.remove("hidden");
-
-  loadQuestion();
-});
-
+const restartBtnGrid = document.getElementById("restart-btn-grid");
 const athletesPage = document.getElementById("athletes-page");
 const athletesGrid = document.getElementById("athletes-grid");
 const learnBtn = document.getElementById("learn-btn");
 const backToResultsBtn = document.getElementById("back-to-results-btn");
 const backToGridBtn = document.getElementById("back-to-grid-btn");
 
-// 1. Open the "Meet the Athletes" grid page
-learnBtn.addEventListener("click", () => {
-  quizContainer.classList.add("hidden");
-  athletesPage.classList.remove("hidden");
-  renderAthletesGrid();
-});
-
-// 2. Build the 2-per-row clickable athlete cards dynamically
-function renderAthletesGrid() {
-  athletesGrid.innerHTML = ""; // Clear any existing cards
-
-  for (let athleteName in athleteInfo) {
-    const data = athleteInfo[athleteName];
-
-    // Create a card container
-    const card = document.createElement("div");
-    card.classList.add("athlete-card");
-
-    card.innerHTML = `
-      <img src="${data.image}" alt="${athleteName}">
-      <h3>${athleteName}</h3>
-    `;
-
-    // When clicked, show the result box with the LONG description
-    card.addEventListener("click", () => {
-      showDetailedAthlete(athleteName);
-    });
-
-    athletesGrid.appendChild(card);
-  }
-}
-
-// 3. Reuse #result-box for the detailed athlete view
-function showDetailedAthlete(athleteName) {
-  const data = athleteInfo[athleteName];
-
-  // Hide the grid page, show the quiz container + result box
-  athletesPage.classList.add("hidden");
+startButton.addEventListener("click", () => {
+  frontPage.classList.add("hidden");
   quizContainer.classList.remove("hidden");
-  document.getElementById("question-box").classList.add("hidden");
-  document.getElementById("result-box").classList.remove("hidden");
-
-  // Populate with the athlete's name, image, and LONG description
-  document.getElementById("result-title").innerText = athleteName;
-  document.getElementById("result-image").src = data.image;
-  document.getElementById("result-description").innerText = data.longDescription;
-
-  // Show "Back to All Athletes" button while viewing a profile
-  backToGridBtn.classList.remove("hidden");
-}
-
-// 4. Button to go back from the detailed bio to the 2-column athlete grid
-backToGridBtn.addEventListener("click", () => {
-  quizContainer.classList.add("hidden");
-  athletesPage.classList.remove("hidden");
-  backToGridBtn.classList.add("hidden");
+  loadQuestion();
 });
-
-// 5. Button to go back from the athlete grid to your original quiz result
-backToResultsBtn.addEventListener("click", () => {
-  athletesPage.classList.add("hidden");
-  quizContainer.classList.remove("hidden");
-  backToGridBtn.classList.add("hidden");
-  calculateResult(); // Restores your original quiz winner & short description
-});
-
-const restartBtnGrid = document.getElementById("restart-btn-grid");
 
 function resetQuiz() {
   currentQuestionIndex = 0;
 
-  for (let type in userScores) {
-    userScores[type] = 0;
+  for (let athlete in userScores) {
+    userScores[athlete] = 0;
   }
 
   athletesPage.classList.add("hidden");
@@ -454,6 +381,45 @@ learnBtn.addEventListener("click", () => {
   athletesPage.classList.remove("hidden");
   renderAthletesGrid();
 });
+
+// 2. Build the 2-per-row clickable athlete cards dynamically
+function renderAthletesGrid() {
+  athletesGrid.innerHTML = "";
+
+  for (let athleteName in athleteInfo) {
+    const data = athleteInfo[athleteName];
+
+    const card = document.createElement("div");
+    card.classList.add("athlete-card");
+
+    card.innerHTML = `
+      <img src="${data.image}" alt="${athleteName}">
+      <h3>${athleteName}</h3>
+    `;
+
+    card.addEventListener("click", () => {
+      showDetailedAthlete(athleteName);
+    });
+
+    athletesGrid.appendChild(card);
+  }
+}
+
+// 3. Reuse #result-box for the detailed athlete view
+function showDetailedAthlete(athleteName) {
+  const data = athleteInfo[athleteName];
+
+  athletesPage.classList.add("hidden");
+  quizContainer.classList.remove("hidden");
+  document.getElementById("question-box").classList.add("hidden");
+  document.getElementById("result-box").classList.remove("hidden");
+
+  document.getElementById("result-title").innerText = athleteName;
+  document.getElementById("result-image").src = data.image;
+  document.getElementById("result-description").innerText = data.longDescription;
+
+  backToGridBtn.classList.remove("hidden");
+}
 
 // 4. Button to go back from the detailed bio to the 2-column athlete grid
 backToGridBtn.addEventListener("click", () => {
